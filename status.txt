@@ -1,0 +1,16 @@
+ad|0|NONE
+bc|0|NONE
+bd|0|NONE
+ca|0|NONE
+cc|0|NONE
+cd|0|NONE
+da|0|NONE
+db|0|NONE
+dc|0|NONE
+dd|0|NONE
+ab|0|NONE
+bb|1|GREEN
+aa|1|GREEN
+ac|1|GREEN
+cb|1|GREEN
+ba|0|NONE

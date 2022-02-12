@@ -1,0 +1,16 @@
+ad|0|RED
+bc|0|RED
+bd|0|RED
+cb|0|RED
+cc|0|RED
+da|0|RED
+db|0|RED
+cd|1|RED
+dc|1|RED
+dd|1|RED
+ba|0|RED
+aa|1|RED
+ca|1|RED
+bb|2|RED
+ab|1|RED
+ac|1|RED
